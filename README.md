@@ -1,4 +1,4 @@
- Overview:
+# Overview:
 
 This project is a Scientific Python Interactive Data Acoustic Modeling 
 (SPIDAM) whose goal is to create a virtual environment that allows for the
@@ -10,14 +10,14 @@ show the waveform, low frequency, high frequency, middle frequency, a
 combined graph and a spectograph. 
 
 
- Purpose:
+## Purpose:
 
 The project allows us to utilize GUI to read file inputs and display graphs.
 The project is inteded to address the problem of intelligibility in enclosed areas.
 It also is an opportunity to understand how collaborations in the programming
 industry can be and look like.
 
- Usage Instructions:
+## Usage Instructions:
 
 Run the program from the Run_Program_Here.py
 Use the audio file from the folder or any 
